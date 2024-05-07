@@ -1,0 +1,23 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .input-section {
+    margin-bottom: 20px;
+  }
+  
+  input[type="number"], button {
+    margin: 5px;
+    padding: 5px 10px;
+  }
+  
+  button {
+    cursor: pointer;
+  }
+  
+  .output-section {
+    font-size: 18px;
+  }
+  
